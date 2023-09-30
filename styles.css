@@ -1,0 +1,127 @@
+body {
+    background-image: url("images/blueBackground.jpg");
+}
+#opening {
+    display: inline-flex;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+#flowers {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    background-color:antiquewhite;
+}
+#flower1 {
+    width: 5rem;
+    height: auto;
+    margin-right: 5rem;
+    margin-left: 38rem;
+}
+#wallowaLake {
+    font-size: 3rem;
+    font-family: 'Shadows Into Light';
+}
+#flower2 {
+    width: 5rem;
+    height: auto;
+    margin-left: 5rem;
+    margin-right: 50rem;
+}
+#second {
+    background-color:antiquewhite;
+    
+}
+#info {
+    color: black;
+    margin-top: 20rem;
+    width: 100%;
+    text-align: center;
+    font-family: 'Shadows Into Light';
+    font-size: 3rem;
+}
+#third {
+    background-color:antiquewhite;
+    margin-top: -15rem;
+}
+#info1 {
+    color: black;
+    margin-top: 20rem;
+    width: 100%;
+    text-align: center;
+    font-family: 'Shadows Into Light';
+    font-size: 3rem;
+}
+#fourth {
+    background-color:antiquewhite;
+    margin-top: -15rem;
+}
+#info2 {
+    color: black;
+    margin-top: 20rem;
+    width: 100%;
+    text-align: center;
+    font-family: 'Shadows Into Light';
+    font-size: 3rem;
+}
+#thingsToDo {
+    color: black;
+    margin-top: 5rem;
+    width: 100%;
+    text-align: center;
+    font-family: 'Shadows Into Light';
+    font-size: 3rem;
+    background-color:antiquewhite;
+}
+#camping {
+    margin-left: 2rem;
+    margin-bottom: 1.5rem;
+    margin-right: 5rem;
+}
+#fishing {
+    margin-top: 25px;
+    margin-right: 5rem;
+}
+#hiking {
+    margin-bottom: 1.5rem;
+    margin-right: 5rem;
+}
+#miniGolf {
+    margin-bottom: 1.5rem;
+    margin-right: 5rem;
+    margin-top: 40px;
+}
+#goCarts {
+    margin-bottom: 1.5rem;
+    margin-right: 5rem;
+    margin-top: 40px;
+}
+.camping {
+    margin: 3%;
+    position: relative;
+}
+/*This CSS code is defining the styles for a container that holds text*/
+.text-container {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 4rem;
+    top: 1rem;
+    background-color: rgb(41, 41, 41, 0.8);
+    padding: 0 1rem;
+    font-family: 'Shadows Into Light';
+}
+.fishing {
+    margin: 3%;
+    position: relative;
+}
+.text-container2 {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 3rem;
+    top: 1rem;
+    background-color: rgb(41, 41, 41, 0.8);
+    padding: 0 1rem;
+    font-family: 'Shadows Into Light';
+}
