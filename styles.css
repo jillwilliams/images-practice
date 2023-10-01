@@ -98,30 +98,3 @@ body {
     margin-right: 5rem;
     margin-top: 40px;
 }
-.camping {
-    margin: 3%;
-    position: relative;
-}
-/*This CSS code is defining the styles for a container that holds text*/
-.text-container {
-    position: absolute;
-    color: rgb(255, 255, 255);
-    left: 4rem;
-    top: 1rem;
-    background-color: rgb(41, 41, 41, 0.8);
-    padding: 0 1rem;
-    font-family: 'Shadows Into Light';
-}
-.fishing {
-    margin: 3%;
-    position: relative;
-}
-.text-container2 {
-    position: absolute;
-    color: rgb(255, 255, 255);
-    left: 3rem;
-    top: 1rem;
-    background-color: rgb(41, 41, 41, 0.8);
-    padding: 0 1rem;
-    font-family: 'Shadows Into Light';
-}
